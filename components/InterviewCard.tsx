@@ -33,7 +33,7 @@ const InterviewCard = ({ interviewId,userId,role,type,techstack,createdAt,} : In
 
            <div className="flex flex-row gap-5 mt-3">
             <div className="flex flex-row gap-2">
-              <Image  className="w-auto"
+              <Image
                 src="/calendar.svg"
                 width={22}
                 height={22}
